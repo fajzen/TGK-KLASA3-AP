@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PickUp
   layers:
   - Default
   - TransparentFX
@@ -41,15 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 3443466535
+  - name: background
+    uniqueID: 869495565
     locked: 0
-  - name: Ufo
-    uniqueID: 1530055641
+  - name: UFO
+    uniqueID: 863628491
     locked: 0
-  - name: Pickup
-    uniqueID: 1724625363
+  - name: pickUps
+    uniqueID: 3858259967
     locked: 0
-  - name: Pickup (1)
-    uniqueID: 1069096223
+  - name: zly
+    uniqueID: 2297037087
     locked: 0
